@@ -1,9 +1,0 @@
-counts = [1,2,3]
-colors = ["h", "z", "l"]
-fillings = ["s", "x", "k"]
-shapes = ["y", "l", "w"]
-
-cards = []
-
-
-def solve_card(card1, card):
